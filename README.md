@@ -1,4 +1,4 @@
-# 🚗 Learn: Guided Project - Revving Up eBay Car Data 🚗
+# 🚗 Learn: Guided Project - Revving Up eBay Car Data 
 
 Welcome to our journey of exploring and cleaning a dataset of used cars from eBay Kleinanzeigen, the German eBay classifieds section!
 
