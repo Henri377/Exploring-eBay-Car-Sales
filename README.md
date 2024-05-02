@@ -1,8 +1,10 @@
-# 🚗 Learn: Guided Project - Revving Up eBay Car Data 🚗
+# 🚗 Learn: Guided Project - Revving Up eBay Car Data 
 
 Welcome to our journey of exploring and cleaning a dataset of used cars from eBay Kleinanzeigen, the German eBay classifieds section!
 
 Originally scraped and uploaded to Kaggle by user orgesleka, this dataset offers a thrilling ride into the world of car listings.
+
+[Data Source](https://data.world/data-society/used-cars-data)
 
 ## 📊 Data Dictionary
 
